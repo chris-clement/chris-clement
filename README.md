@@ -9,7 +9,7 @@ Chartered Accountant having worked for 5 Years in Finance across Investment Bank
 
 Looking for a new challenge after finishing Makers Academy, Europe’s #1 Developer Bootcamp.
 
-Take a look at my [Github CV](https://github.com/chris-clement/CV).
+Take a look at my [Github CV](https://github.com/chris-clement/CV) or if you prefer here is a [pdf](https://drive.google.com/file/d/1nuf9ft45ygj0skPddGWyh1v4M3FF2EIG/view?usp=sharing).
 
 Feel free to message me on LinkedIn or on email to find out more. 
 
