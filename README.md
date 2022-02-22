@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Chris Clement
+👋 Hi, I’m Chris Clement
 
-Chartered Accountant having worked in Finance across Investment Banks and a Hedge Fund before looking for a new challenge by enrolling in a coding bootcamp.
-- 🌱 Studying at Makers
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chris-clement-0b392b184/)
+	[<img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:chris.clement1995@gmail.com)
+  [<img src ="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />](https://www.codewars.com/users/chris.clement)
 
-Immersive 16 week computer programming course at Europe’s #1 Developer Bootcamp.
 
-A strong focus on Test Driven Development, Pair Programming and Agile software development covering Ruby, Sinatra, Ruby on Rails, JavaScript and Node.js.
+Chartered Accountant having worked for 5 Years in Finance across Investment Banks and a Hedge Fund before looking for a new challenge after finishing Makers Academy, Europe’s #1 Developer Bootcamp.
 
 <!---
 chris-clement/chris-clement is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
